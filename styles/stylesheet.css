@@ -52,3 +52,13 @@ html {
 .card-footer {
     background-color: beige;
 }
+
+.contact-icons {
+    margin: 20px;
+    font-size: 50px;
+    letter-spacing: 15px;
+  }
+
+.fa-github-square, .fa-linkedin, .fa-envelope, .fa-file{
+    color:beige;
+}
