@@ -1,0 +1,21 @@
+.bio {
+    font-family: 'Barlow Condensed', sans-serif;
+    display: flex;
+    align-items: center;
+    text-align: start;
+    font-size: 22px;
+    margin-right: 100px;
+    animation: bio 1.4s linear;
+}
+
+.page-container {
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+@media only screen and (max-width: 800px) {
+  .page-container {
+    margin-top: 200px;
+    margin-bottom: 150px;
+  }
+}
